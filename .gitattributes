@@ -1,0 +1,2 @@
+data/armensteuer_and_similars.01.parquet filter=lfs diff=lfs merge=lfs -text
+data/armensteuer_and_similars.parquet filter=lfs diff=lfs merge=lfs -text
